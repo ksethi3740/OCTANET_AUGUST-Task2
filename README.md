@@ -1,0 +1,2 @@
+# OCTANET_AUGUST-Task2
+Using HTML,CSS AND JAVASCRIPT we have designed the TODO APP
